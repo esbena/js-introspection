@@ -1,0 +1,6 @@
+library: false
+name: js-introspection
+version: 0.0.1
+extractor: javascript
+dependencies:
+  codeql/javascript-all: "*"
